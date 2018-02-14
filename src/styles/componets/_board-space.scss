@@ -1,0 +1,10 @@
+.board-space {
+  width: $space-size;
+  height: $space-size;
+  background: none;
+  border: 1px solid $gray;
+  &:active {
+    background: $off-white;
+    border: 1px solid $gray;
+  }
+}
