@@ -1,7 +1,8 @@
-# Git Commands
+# An online Chess App
 
-git init - Create new Git repository
-git status - View changes to project code
-git add - Add files to staging area
-git commit - Creates new commit with files from staging area
-git log - View recent commits 
+This is just first thoughts for my Senior project.
+
+If I did this, it would have a React front end for web and a React/Native front end 
+for mobile with a Node PostGreSQL back end. 
+
+Hopefully I chould build a little Machine Learning algorithem to constitute the AI.
